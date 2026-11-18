@@ -1,0 +1,313 @@
+{
+  "date": "2026-11-18",
+  "device": "RTX5060Ti16GB",
+  "state": "passed",
+  "synthetic_tests": {
+    "passed": 10,
+    "failed": 0
+  },
+  "refiner": {
+    "case_count": 15,
+    "character_count": 13,
+    "frames": 1860,
+    "cases": [
+      {
+        "case": "clip-01",
+        "frames": 124,
+        "alpha_changed_values": 0,
+        "rgba_changed_values": 0,
+        "max_absolute_error": 0,
+        "secondary_forwards": 1,
+        "secondary_seconds": 0.02196870103944093,
+        "secondary_commits": 0,
+        "seconds_including_readback": 2.6804912709631026,
+        "state": "exact",
+        "character": "character-01"
+      },
+      {
+        "case": "clip-02",
+        "frames": 124,
+        "alpha_changed_values": 0,
+        "rgba_changed_values": 0,
+        "max_absolute_error": 0,
+        "secondary_forwards": 0,
+        "secondary_seconds": 0.0,
+        "secondary_commits": 0,
+        "seconds_including_readback": 2.5767004089429975,
+        "state": "exact",
+        "character": "character-02"
+      },
+      {
+        "case": "clip-03",
+        "frames": 124,
+        "alpha_changed_values": 0,
+        "rgba_changed_values": 0,
+        "max_absolute_error": 0,
+        "secondary_forwards": 0,
+        "secondary_seconds": 0.0,
+        "secondary_commits": 0,
+        "seconds_including_readback": 1.4473046000348404,
+        "state": "exact",
+        "character": "character-03"
+      },
+      {
+        "case": "clip-04",
+        "frames": 124,
+        "alpha_changed_values": 0,
+        "rgba_changed_values": 0,
+        "max_absolute_error": 0,
+        "secondary_forwards": 0,
+        "secondary_seconds": 0.0,
+        "secondary_commits": 0,
+        "seconds_including_readback": 1.5582737260265276,
+        "state": "exact",
+        "character": "character-04"
+      },
+      {
+        "case": "clip-05",
+        "frames": 124,
+        "alpha_changed_values": 0,
+        "rgba_changed_values": 0,
+        "max_absolute_error": 0,
+        "secondary_forwards": 0,
+        "secondary_seconds": 0.0,
+        "secondary_commits": 0,
+        "seconds_including_readback": 2.590871616033837,
+        "state": "exact",
+        "character": "character-05"
+      },
+      {
+        "case": "clip-06",
+        "frames": 124,
+        "alpha_changed_values": 0,
+        "rgba_changed_values": 0,
+        "max_absolute_error": 0,
+        "secondary_forwards": 0,
+        "secondary_seconds": 0.0,
+        "secondary_commits": 0,
+        "seconds_including_readback": 1.535505919950083,
+        "state": "exact",
+        "character": "character-06"
+      },
+      {
+        "case": "clip-07",
+        "frames": 124,
+        "alpha_changed_values": 0,
+        "rgba_changed_values": 0,
+        "max_absolute_error": 0,
+        "secondary_forwards": 0,
+        "secondary_seconds": 0.0,
+        "secondary_commits": 0,
+        "seconds_including_readback": 1.6886132180225104,
+        "state": "exact",
+        "character": "character-07"
+      },
+      {
+        "case": "clip-08",
+        "frames": 124,
+        "alpha_changed_values": 0,
+        "rgba_changed_values": 0,
+        "max_absolute_error": 0,
+        "secondary_forwards": 4,
+        "secondary_seconds": 0.07315378380008042,
+        "secondary_commits": 2,
+        "seconds_including_readback": 2.8412409329321235,
+        "state": "exact",
+        "character": "character-08"
+      },
+      {
+        "case": "clip-09",
+        "frames": 124,
+        "alpha_changed_values": 0,
+        "rgba_changed_values": 0,
+        "max_absolute_error": 0,
+        "secondary_forwards": 1,
+        "secondary_seconds": 0.01685611705761403,
+        "secondary_commits": 0,
+        "seconds_including_readback": 2.7301883259788156,
+        "state": "exact",
+        "character": "character-09"
+      },
+      {
+        "case": "clip-10",
+        "frames": 124,
+        "alpha_changed_values": 0,
+        "rgba_changed_values": 0,
+        "max_absolute_error": 0,
+        "secondary_forwards": 0,
+        "secondary_seconds": 0.0,
+        "secondary_commits": 0,
+        "seconds_including_readback": 2.4127832009689882,
+        "state": "exact",
+        "character": "character-09"
+      },
+      {
+        "case": "clip-11",
+        "frames": 124,
+        "alpha_changed_values": 0,
+        "rgba_changed_values": 0,
+        "max_absolute_error": 0,
+        "secondary_forwards": 0,
+        "secondary_seconds": 0.0,
+        "secondary_commits": 0,
+        "seconds_including_readback": 1.8100393860368058,
+        "state": "exact",
+        "character": "character-09"
+      },
+      {
+        "case": "clip-12",
+        "frames": 124,
+        "alpha_changed_values": 0,
+        "rgba_changed_values": 0,
+        "max_absolute_error": 0,
+        "secondary_forwards": 0,
+        "secondary_seconds": 0.0,
+        "secondary_commits": 0,
+        "seconds_including_readback": 2.0438919248990715,
+        "state": "exact",
+        "character": "character-10"
+      },
+      {
+        "case": "clip-13",
+        "frames": 124,
+        "alpha_changed_values": 0,
+        "rgba_changed_values": 0,
+        "max_absolute_error": 0,
+        "secondary_forwards": 0,
+        "secondary_seconds": 0.0,
+        "secondary_commits": 0,
+        "seconds_including_readback": 1.8943469600053504,
+        "state": "exact",
+        "character": "character-11"
+      },
+      {
+        "case": "clip-14",
+        "frames": 124,
+        "alpha_changed_values": 0,
+        "rgba_changed_values": 0,
+        "max_absolute_error": 0,
+        "secondary_forwards": 0,
+        "secondary_seconds": 0.0,
+        "secondary_commits": 0,
+        "seconds_including_readback": 2.2727660989621654,
+        "state": "exact",
+        "character": "character-12"
+      },
+      {
+        "case": "clip-15",
+        "frames": 124,
+        "alpha_changed_values": 0,
+        "rgba_changed_values": 0,
+        "max_absolute_error": 0,
+        "secondary_forwards": 8,
+        "secondary_seconds": 0.16666977410204709,
+        "secondary_commits": 7,
+        "seconds_including_readback": 1.7606899329693988,
+        "state": "exact",
+        "character": "character-13"
+      }
+    ]
+  },
+  "detector": {
+    "state": "complete",
+    "cases": [
+      {
+        "case": "clip-01",
+        "frames": 124,
+        "exact": true
+      },
+      {
+        "case": "clip-02",
+        "frames": 124,
+        "exact": true
+      },
+      {
+        "case": "clip-03",
+        "frames": 124,
+        "exact": true
+      },
+      {
+        "case": "clip-04",
+        "frames": 124,
+        "exact": true
+      },
+      {
+        "case": "clip-05",
+        "frames": 124,
+        "exact": true
+      },
+      {
+        "case": "clip-06",
+        "frames": 124,
+        "exact": true
+      },
+      {
+        "case": "clip-07",
+        "frames": 124,
+        "exact": true
+      },
+      {
+        "case": "clip-08",
+        "frames": 124,
+        "exact": true
+      },
+      {
+        "case": "clip-09",
+        "frames": 124,
+        "exact": true
+      },
+      {
+        "case": "clip-10",
+        "frames": 124,
+        "exact": true
+      },
+      {
+        "case": "clip-11",
+        "frames": 124,
+        "exact": true
+      },
+      {
+        "case": "clip-12",
+        "frames": 124,
+        "exact": true
+      },
+      {
+        "case": "clip-13",
+        "frames": 124,
+        "exact": true
+      },
+      {
+        "case": "clip-14",
+        "frames": 124,
+        "exact": true
+      },
+      {
+        "case": "clip-15",
+        "frames": 124,
+        "exact": true
+      }
+    ],
+    "frames": 1860
+  },
+  "cli": {
+    "state": "complete",
+    "kind": "public CLI full sequence parity",
+    "frames": 124,
+    "outputs": {
+      "alpha": {
+        "changed_values": 0,
+        "maximum_error": 0
+      },
+      "rgba-corrected": {
+        "changed_values": 0,
+        "maximum_error": 0
+      }
+    },
+    "standalone_refinement_seconds": 6.862358154030517
+  },
+  "limitations": [
+    "Regression on the development set, not an unseen quality benchmark.",
+    "Replay does not rerun LTX denoising and does not measure end-to-end LTX speed.",
+    "No private media, source paths, IP identifiers or weights are included."
+  ]
+}

@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ltx-alpha-refine"
+version = "0.1.0rc1"
+description = "Local hand-boundary refinement for white-background LTX Alpha outputs"
+readme = "README.md"
+requires-python = ">=3.11"
+license = {text = "Apache-2.0"}
+dependencies = ["numpy", "Pillow", "opencv-python-headless", "torch", "transformers"]
+
+[project.optional-dependencies]
+detect = ["onnxruntime"]
+
+[project.scripts]
+ltx-alpha-refine = "ltx_alpha_refine.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

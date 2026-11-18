@@ -1,0 +1,30 @@
+{
+  "origin": "reference implementation",
+  "upstream_revision": "f0f2f8607189c78a72420b2b63cb1975b5eca179",
+  "modules": [
+    {
+      "module": "primary",
+      "changes": "relative imports, explicit model path, descriptive algorithm identifiers, formatting"
+    },
+    {
+      "module": "constrained",
+      "changes": "relative imports, explicit model path, descriptive algorithm identifiers, formatting"
+    },
+    {
+      "module": "repair",
+      "changes": "relative imports, explicit model path, descriptive algorithm identifiers, formatting"
+    },
+    {
+      "module": "locality",
+      "changes": "relative imports, explicit model path, descriptive algorithm identifiers, formatting"
+    },
+    {
+      "module": "projection",
+      "changes": "relative imports, explicit model path, descriptive algorithm identifiers, formatting"
+    },
+    {
+      "module": "parallel",
+      "changes": "relative imports, explicit model path, descriptive algorithm identifiers, formatting"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "version": "0.1.0rc1",
+  "files": [
+    {
+      "file": ".gitignore",
+      "bytes": 113,
+      "sha256": "70f80e845cc5cd0af00cae45fa1aed9166a6b7dfcb5c995d3e795ebda26b2a78"
+    },
+    {
+      "file": "docs/BENCHMARKS.md",
+      "bytes": 3005,
+      "sha256": "3848fcd6e611adaa796875099105d6a8d505456f9087c98de3e5c030d31b0d63"
+    },
+    {
+      "file": "docs/extraction.json",
+      "bytes": 1001,
+      "sha256": "8187eb21b5fe13f67eb68f1553b182d4d47a1038342808a60ac091ef2f247d4f"
+    },
+    {
+      "file": "docs/tested-environment.json",
+      "bytes": 516,
+      "sha256": "d64a657fe11e670f56d563fec7cb68889ec8e3b89a8097d52ab5f6113406ddb0"
+    },
+    {
+      "file": "docs/UPSTREAM_PROPOSAL.md",
+      "bytes": 3780,
+      "sha256": "1a252290a9ae7dd60854432a13d4c07853b2bb73a26a0f04861ad74e2f097cc8"
+    },
+    {
+      "file": "docs/validation.json",
+      "bytes": 8172,
+      "sha256": "f3ee35445f15540ed3a0a569e2ddb21caa11083ac4db02f528d1585aeeef9f80"
+    },
+    {
+      "file": "LICENSE",
+      "bytes": 11359,
+      "sha256": "8c6db340475136df3c1201d458fa5755698eace76e510471ecc9d857d6083dac"
+    },
+    {
+      "file": "model-assets.json",
+      "bytes": 1188,
+      "sha256": "6cce207e9e00d2bde1fd26426c47647348cadd1a14ed84163e3e76a64d8a3181"
+    },
+    {
+      "file": "NOTICE",
+      "bytes": 253,
+      "sha256": "d9b24ed7e1098a7a998f74daece4b763dc7827f27a524f8adacee236cd761037"
+    },
+    {
+      "file": "pyproject.toml",
+      "bytes": 568,
+      "sha256": "eed01624ba86c99b322e5f36ca6062ecb9c96c3ee17102e4e5b9e7fcb883ec16"
+    },
+    {
+      "file": "README.md",
+      "bytes": 6247,
+      "sha256": "279569bf393fddc9190313de664d5668bcdbc48ffeb261fe24fb74572b5f48f6"
+    },
+    {
+      "file": "README.zh-CN.md",
+      "bytes": 1375,
+      "sha256": "49ba8cf2f37a67b42476046aa01bb4490d60c97377e64533f789f61d4b8b8c59"
+    },
+    {
+      "file": "research/active_weight_cache_reference.py",
+      "bytes": 5525,
+      "sha256": "8f75c71560f23958c857cd0a9d48ace5b0543e0c5cd6a0ae5d814ecac64abeb6"
+    },
+    {
+      "file": "research/README.md",
+      "bytes": 1283,
+      "sha256": "574d2c181a7f6251e8b35bc2a6fc7e9aa54b496a558465c6f9bec7bbccb19e82"
+    },
+    {
+      "file": "src/ltx_alpha_refine/__init__.py",
+      "bytes": 120,
+      "sha256": "05271c21fb4902760d6ffba44e3047cece281d86921c0aea13bb10a4fda01b6b"
+    },
+    {
+      "file": "src/ltx_alpha_refine/cli.py",
+      "bytes": 6245,
+      "sha256": "178bfcfd1bcb0b33422c94db7018843ecd2490ef20f5e2c1ead6e05722062578"
+    },
+    {
+      "file": "src/ltx_alpha_refine/constrained.py",
+      "bytes": 496,
+      "sha256": "f046f0c7818268e3ddda567ca2a5216abe3047a927689acdcd7debcdf331b5b2"
+    },
+    {
+      "file": "src/ltx_alpha_refine/detect.py",
+      "bytes": 1520,
+      "sha256": "3ba9a6cb4380b7645c94363867ea3a302101a4a4a931a364985eaa5371851e08"
+    },
+    {
+      "file": "src/ltx_alpha_refine/detection.py",
+      "bytes": 2722,
+      "sha256": "f50a7279c517b0ff3e4899e8987e0674f276f5d7cb32b5c935a32c5df5e5619d"
+    },
+    {
+      "file": "src/ltx_alpha_refine/detector.py",
+      "bytes": 2036,
+      "sha256": "77a2ba2b96546a4879648f2abe3960ede5fde255b25b51da2d89b75601812aae"
+    },
+    {
+      "file": "src/ltx_alpha_refine/locality.py",
+      "bytes": 1211,
+      "sha256": "9bce5f0a65bec0d1edfe00472f7e6c898b22bda3b5dfc56bc40b383e8bca3e3d"
+    },
+    {
+      "file": "src/ltx_alpha_refine/parallel.py",
+      "bytes": 1445,
+      "sha256": "2ee5142e64a321b374b37acfd828e3a630096c09869addb9260547df6b19c0f7"
+    },
+    {
+      "file": "src/ltx_alpha_refine/png.py",
+      "bytes": 910,
+      "sha256": "1b71cd08d2c7cc73537621c4f7d7232992617fee97eb1ff98833bde782b568bb"
+    },
+    {
+      "file": "src/ltx_alpha_refine/primary.py",
+      "bytes": 4827,
+      "sha256": "27b93c4aa875e8e137180662e7d0304b696f6ff510d876c26fe2909757e40983"
+    },
+    {
+      "file": "src/ltx_alpha_refine/projection.py",
+      "bytes": 3545,
+      "sha256": "819f8b895eedadce418d29667983b2bc9c28220727cb85ecde5b49534eeec402"
+    },
+    {
+      "file": "src/ltx_alpha_refine/repair.py",
+      "bytes": 4444,
+      "sha256": "0c5fc28753551458b600134b2f29f2c09dbef8920ee9509077fc28737020c72b"
+    },
+    {
+      "file": "tests/test_contracts.py",
+      "bytes": 4775,
+      "sha256": "b76f9a43e679fe59e44d3befcfd34030dd6f9b9191678d3edfb9215aa4c6f494"
+    },
+    {
+      "file": "THIRD_PARTY.md",
+      "bytes": 1868,
+      "sha256": "6bd17b3dae6d1fb1ead1c8b6d36d3d97c72505b5e03a4e8bb820ad602f7f8dbc"
+    },
+    {
+      "file": "tools/compare_outputs.py",
+      "bytes": 1605,
+      "sha256": "846abab4cba3134531b164e2da0a9c6f33a2aa633c211ca14e94780de07c3775"
+    },
+    {
+      "file": "tools/verify_models.py",
+      "bytes": 1006,
+      "sha256": "d84b54e994483aafe5ad85a04318e9f1e42f572443ae97101d24cf3f701213aa"
+    }
+  ]
+}

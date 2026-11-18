@@ -1,0 +1,38 @@
+[
+  {
+    "repo": "hustvl/vitmatte-small-composition-1k",
+    "file": "model.safetensors",
+    "bytes": 103294572,
+    "sha256": "bda9289db1bb6762d978b42d1c62ae3f34daf7497171a347a1d09657efd788cb"
+  },
+  {
+    "repo": "hustvl/vitmatte-small-composition-1k",
+    "file": "config.json",
+    "bytes": 837,
+    "sha256": "ae1006f5a83227048b563b2e60709d4203e432b2276949ebef41a8cfeeeaf45f"
+  },
+  {
+    "repo": "hustvl/vitmatte-small-composition-1k",
+    "file": "preprocessor_config.json",
+    "bytes": 284,
+    "sha256": "0db558038b96a3f5c97e46d4ec8966fcc479e9aa58a391bca60b5094a5f7fee0"
+  },
+  {
+    "repo": "deepghs/anime_hand_detection",
+    "file": "hand_detect_v1.0_s/model.onnx",
+    "bytes": 44583229,
+    "sha256": "408750ad39645fcdc0c5e774aa45a73941b2e785fc5611fb7d3d9790a41899c0"
+  },
+  {
+    "repo": "deepghs/anime_hand_detection",
+    "file": "hand_detect_v1.0_s/threshold.json",
+    "bytes": 48,
+    "sha256": "314610ef9212b3d21096744f937d4fa911f345fae31b8529ce3e992910e8d3bd"
+  },
+  {
+    "repo": "deepghs/anime_hand_detection",
+    "file": "hand_detect_v1.0_s/labels.json",
+    "bytes": 14,
+    "sha256": "5b372f8ab5b91b2f281b98852aaea89932aebf0df087dd3144e27b93b55801bf"
+  }
+]
